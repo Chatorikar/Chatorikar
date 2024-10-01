@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-     <img src="https://komarev.com/ghpvc/?username=tejaskhare99&style=flat-square&color=blue" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=Chatorikar&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
   Helloooo
