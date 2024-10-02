@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div id="badges">
-     <img src="https://komarev.com/ghpvc/?username=Chatorikar&style=pixel&color=blue" alt=""/>
-</div>
 <h1>
   Helloooo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -36,6 +33,9 @@ Here are some ideas to get you started:
   As a dedicated software and cloud engineer with three years of experience at Barclays, I specialize in transforming complex systems into efficient microservices, optimizing backend architectures, and implementing innovative cloud solutions. <br>
 </div>
 
+<div id="badges">
+     <img src="https://komarev.com/ghpvc/?username=Chatorikar&style=pixel&color=blue" alt=""/>
+</div>
   
 <div align="left">
   <h2>Languages and Tools</h2>
