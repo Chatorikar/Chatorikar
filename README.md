@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <h1>
   Helloooo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Chatorikar&theme=meta-light)](https://git.io/streak-stats)
 </h1>
 
 <div align="left"> 
